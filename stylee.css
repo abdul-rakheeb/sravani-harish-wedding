@@ -15,7 +15,7 @@ body {
     max-width: 430px;
     margin: 0 auto;
     font-family: 'Poppins', sans-serif;
-    background: #fff8f5;
+    background: #f1dbd2;
     color: #4A2923;
 }
 
@@ -47,7 +47,7 @@ body {
     border: 1px solid #c99b91;
     outline: 1px solid #c99b91;
     outline-offset: 7px;
-    background: rgba(255, 250, 247, 0.75);
+    background: rgba(255, 250, 247, 0);
 }
 
 .welcome-content .small-text {
